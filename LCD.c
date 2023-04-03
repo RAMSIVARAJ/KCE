@@ -37,7 +37,7 @@ void lcd_init(void)
 void lcd_cmd(char c)
 {
  DATA=c;
- RS=0;//COMMAND
+ RS=0;
  RW=0;
  EN=1;
  EN=0;
@@ -47,7 +47,7 @@ void lcd_cmd(char c)
 void lcd_data(char d)
 {
  DATA=d;
- RS=1;//DATA
+ RS=1;
  RW=0;
  EN=1;
  EN=0;
@@ -59,9 +59,9 @@ void lcd_busy()
  char s;
  RS=0;
  RW=1;
- DATA=0xFF;//ALL 8 BITS ARE INPUT
+ DATA=0xFF;
  EN=1;
- s=DATA&0x80;//MASK THE NON MSB BITS
+ s=DATA&0x80;
  EN=0;
  while(s!=0x00)
  {
