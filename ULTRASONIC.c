@@ -10,8 +10,8 @@ void send_byte(char);
 void send_msg(char*);
 void wait (char);
 int get_distance(void);
+const char ASCII[11]="0123456789";
 
-const char ASCIvoid wait (char);I[11]="0123456789";
 void main()
 {
  baud_rate(9600);
