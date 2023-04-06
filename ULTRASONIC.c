@@ -11,7 +11,7 @@ void send_msg(char*);
 void wait (char);
 int get_distance(void);
 
-const char ASCII[11]="0123456789";
+const char ASCIvoid wait (char);I[11]="0123456789";
 void main()
 {
  baud_rate(9600);
@@ -28,6 +28,7 @@ void main()
   send_byte(ASCII[ten]);
   send_byte(ASCII[one]);
   send_msg(" Cm\n\n");
+  wait(50);
  }
 }
 
@@ -88,4 +89,14 @@ int get_distance(void)
  TR0=0;
  ultra_dist=((TH0*256)+TL0)/54;
  return ultra_dist;
+}
+
+void wait (char t)
+{
+ int i,j;
+ for(i=0;i<t;i++)
+ {
+  for(j=0;j<1275;j++)
+  {}
+ }
 }
