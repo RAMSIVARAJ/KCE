@@ -1,0 +1,654 @@
+{
+  "Name": "MICROSOFT_REWARD_SEARCH_AUTOMATE",
+  "CreationDate": "2023-5-21",
+  "Commands": [
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Apple",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Apricot",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Avocado",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Banana",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Blueberry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Cherry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Coconut",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Grape",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Grapefruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Fig",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Kiwi",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Lemon",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Lime",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Mandarin",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Mango",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Melon",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Nectarine",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Orange",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Papaya",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Passion fruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Peach",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Pear",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Pineapple",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Plum",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Pomegranate",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Raspberry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Strawberry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Watermelon",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Blueberry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Lychee",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Pomelo",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Jackfruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Wax Apples",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Lychee",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Rambutan",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Durian",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Asian Pear",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Mangosteen",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Longan",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Guava",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Lotus Fruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Sugar Apple",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Chinese Bayberry",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Starfruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Pulasan",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Kumquat",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Breadfruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Dragon Fruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Santol",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Langsat",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Mango",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Snake Fruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Japanese Persimmon",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=sb_form_q",
+      "Value": "Passion Fruit",
+      "Description": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=sb_form_go",
+      "Value": "",
+      "Description": ""
+    }
+  ]
+}
