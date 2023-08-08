@@ -314,17 +314,6 @@ __sbit __at (0xF7) BREG_F7    ;
 #define SPDR_SPD6       0x40
 #define SPDR_SPD7       0x80
 
-void delay(int del)
-{
- int i,j;
- for(i=0;i<del;i++)
- {
-  for(j=0;j<3000;j++)
-  {
-  }
- }
-}
-
 /* Interrupt numbers: address = (number * 8) + 3 */
 #define IE0_VECTOR      0       /* 0x03 external interrupt 0 */
 #define EX0_VECTOR      0       /* 0x03 external interrupt 0 */
